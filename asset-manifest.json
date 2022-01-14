@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a8b7555c.css",
+    "main.js": "/static/js/main.bd0c3022.js",
+    "static/js/787.0f7833ee.chunk.js": "/static/js/787.0f7833ee.chunk.js",
+    "static/media/Background01.png": "/static/media/Background01.9a2d08f338224be4baea.png",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
+    "static/media/Background03.jpg": "/static/media/Background03.879a25a5b681240d50cb.jpg",
+    "static/media/Poppins-SemiBold.ttf": "/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Nunito-Regular.ttf": "/static/media/Nunito-Regular.e4eb7682710458841b10.ttf",
+    "static/media/Archivo-Bold.ttf": "/static/media/Archivo-Bold.dacbd1fe5b6df528d845.ttf",
+    "static/media/BurgerImage2.png": "/static/media/BurgerImage2.a0d03f630274baa58efb.png",
+    "static/media/BurgerImage1.png": "/static/media/BurgerImage1.87ff5eef98833df9ab8c.png",
+    "static/media/Background06.jpg": "/static/media/Background06.bc9e281423de60c127ed.jpg",
+    "static/media/Chef02.png": "/static/media/Chef02.2dbbd3c86beddaf229be.png",
+    "static/media/Chef01.png": "/static/media/Chef01.92b44d3a00fcbdf4dd7d.png",
+    "static/media/Chef03.png": "/static/media/Chef03.a636b4b67f4b5e436fec.png",
+    "static/media/Background02.jpg": "/static/media/Background02.9c2b22d2a5a800ec7111.jpg",
+    "index.html": "/index.html",
+    "main.a8b7555c.css.map": "/static/css/main.a8b7555c.css.map",
+    "main.bd0c3022.js.map": "/static/js/main.bd0c3022.js.map",
+    "787.0f7833ee.chunk.js.map": "/static/js/787.0f7833ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8b7555c.css",
+    "static/js/main.bd0c3022.js"
+  ]
+}
